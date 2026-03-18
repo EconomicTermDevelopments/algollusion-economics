@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Algollusion",
+  "description": "Autonomous emergence of collusive pricing behavior among algorithmic agents through reinforcement learning without explicit communication.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "C63"
+}

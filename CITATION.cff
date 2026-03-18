@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Algollusion: A Computational Framework for Computational Economics / Industrial Organization"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/algollusion-economics"
+keywords:
+  - economics
+  - algollusion
+  - computational-economics-industrial-organization
+  - computational-framework
+  - emerging-terminology
+abstract: "Algollusion is defined here as autonomous emergence of collusive pricing behavior among algorithmic agents through reinforcement learning without explicit communication. This paper develops Algollusion as a computational framework for computational economics / industrial organization by linking the concept to algorithm-mediated collusion risk in digital markets, formalizing synchronized pricing behavior from high algorithm adoption in concentrated markets, and operationalizing Algollusion with a transparent index built from channels such as market concentration, algorithm adoption, price sync index, and demand volatility, while also showing how Algollusion can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

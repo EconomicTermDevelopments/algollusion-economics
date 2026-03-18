@@ -1,0 +1,28 @@
+{
+  "term": "Algollusion",
+  "definition": "Autonomous emergence of collusive pricing behavior among algorithmic agents through reinforcement learning without explicit communication.",
+  "etymology": "Portmanteau combining \"algorithm\" + \"collusion\". The construction elegantly preserves the morphological clarity of both root concepts while creating a memorable 4-syllable term. The blended form follows successful economics neologism patterns (cf. \"tokenomics\" = token + economics). The double-L at the junction maintains pronounceability while signaling the collusion component.",
+  "field": "Computational Economics / Industrial Organization",
+  "subfields": [
+    "Computational Economics / Industrial Organization",
+    "Antitrust & Regulatory Economics",
+    "Financial Markets / Platform Economics"
+  ],
+  "jel_codes": [
+    "C63",
+    "D43",
+    "D83",
+    "L13",
+    "L41"
+  ],
+  "synonyms": [
+    "algorithmic collusion risk"
+  ],
+  "related_concepts": [
+    "Tacit collusion",
+    "Algorithmic pricing coordination",
+    "Price synchronization"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}
